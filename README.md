@@ -1,2 +1,2 @@
 # opencv
-Tutorial of OpenCV
+OpenCV Tutorial
